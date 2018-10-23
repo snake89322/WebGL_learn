@@ -1,0 +1,19 @@
+{
+  "name": "webgl_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snake89322/WebGL_learn.git"
+  },
+  "author": "Cary chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snake89322/WebGL_learn/issues"
+  },
+  "homepage": "https://github.com/snake89322/WebGL_learn#readme"
+}
